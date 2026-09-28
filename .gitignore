@@ -1,0 +1,4 @@
+#Ignora estos archivos
+
+*.exe
+.vscode\
